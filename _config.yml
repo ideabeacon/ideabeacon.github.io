@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+title: Idea Beacon
+email: realideabeacon@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Idea Beacon team will make your business idea become a beautiful functional
+  web sites and mobile apps. Bring your idea and talk to us!
+
+markdown: kramdown
+twitter_username: ideabeacon
+github_username:  ideabeacon
